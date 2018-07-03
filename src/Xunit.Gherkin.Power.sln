@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xunit.Gherkin.Power", "Xunit.Gherkin.Power\Xunit.Gherkin.Power.csproj", "{076E9DFF-64B2-425C-9DAC-1F06229323C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xunit.Gherkin.Power.Samples", "Xunit.Gherkin.Power.Samples\Xunit.Gherkin.Power.Samples.csproj", "{7DE4E236-D262-47A2-ADEE-34E3823BFCA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xunit.Gherkin.Power.Tests", "Xunit.Gherkin.Power.Tests\Xunit.Gherkin.Power.Tests.csproj", "{1A1202A9-64EA-48BD-8D3D-DF1B40851B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{076E9DFF-64B2-425C-9DAC-1F06229323C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076E9DFF-64B2-425C-9DAC-1F06229323C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076E9DFF-64B2-425C-9DAC-1F06229323C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076E9DFF-64B2-425C-9DAC-1F06229323C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE4E236-D262-47A2-ADEE-34E3823BFCA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE4E236-D262-47A2-ADEE-34E3823BFCA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE4E236-D262-47A2-ADEE-34E3823BFCA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE4E236-D262-47A2-ADEE-34E3823BFCA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1202A9-64EA-48BD-8D3D-DF1B40851B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1202A9-64EA-48BD-8D3D-DF1B40851B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1202A9-64EA-48BD-8D3D-DF1B40851B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1202A9-64EA-48BD-8D3D-DF1B40851B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

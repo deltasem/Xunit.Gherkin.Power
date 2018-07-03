@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netcoreapp2.1</TargetFramework>
+		<IsPackable>true</IsPackable>
+		<PackageId>Xunit.Gherkin.Power</PackageId>
+		<Description>BDD adapter for xunit</Description>
+		<Authors>Semen Kiryushin</Authors>
+		<Company>Semen Kiryushin</Company>
+		<Copyright>Copyright (c) 2018 Semen Kiryushin</Copyright>
+		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+		<PackageLicenseUrl>https://github.com/deltasem/Xunit.Gherkin.Power/blob/master/LICENSE</PackageLicenseUrl>
+		<PackageProjectUrl>https://github.com/deltasem/Xunit.Gherkin.Power</PackageProjectUrl>
+		<PackageTags>BDD, Gherkin, Xunit, Testing, Behavior Driven Development</PackageTags>
+		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+		<RepositoryUrl>https://github.com/ttutisani/Xunit.Gherkin.Quick</RepositoryUrl>
+		<Version>0.0.1</Version>
+		<PackageReleaseNotes>https://github.com/deltasem/Xunit.Gherkin.Power/blob/master/ReleaseNotes.md</PackageReleaseNotes>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Gherkin" Version="5.1.0"/>
+		<PackageReference Include="xunit" Version="2.3.1"/>
+	</ItemGroup>
+</Project>
